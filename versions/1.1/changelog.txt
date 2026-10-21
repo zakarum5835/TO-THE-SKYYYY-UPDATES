@@ -7,8 +7,8 @@ Changes and Fixes:
 
 - Improved Performance
 - Ancient Factory will spawn in Everdawn dimension (L_Ender 's Cataclysm)
-- Certain Vanilla Mobs will forever spawn in Everdawn <@707601529028477011>
-- Prosperity Ores can be found within The Undergarden (Mystical Agriculture) <@707601529028477011>
+- Certain Vanilla Mobs will forever spawn in Everdawn (KK_Mirak)
+- Prosperity Ores can be found within The Undergarden (Mystical Agriculture) (KK_Mirak)
 - Prosperity Shards and Seeds can be found in Loot Chests within The Undergarden (Mystical Agriculture)
 - Soulium Dust can be found in Loot Chests within the Lava Dimension structures (Mystical Agriculture)
 - Soulium Seed Base can be found in Loot Chests in certain structures within the Lava Dimension (Mystical Agriculture)
