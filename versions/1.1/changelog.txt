@@ -1,0 +1,46 @@
+# First Update! - v1.1
+This update almost completes the Everdawn world gen, which consists spawning some Vanilla mobs, organizing Mystical Agriculture as much as possible and adjusting some ores placement and adding new quests!
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Ancient Factory will spawn in Everdawn dimension (L_Ender 's Cataclysm)
+- Certain Vanilla Mobs will forever spawn in Everdawn <@707601529028477011>
+- Prosperity Ores can be found within The Undergarden (Mystical Agriculture) <@707601529028477011>
+- Prosperity Shards and Seeds can be found in Loot Chests within The Undergarden (Mystical Agriculture)
+- Soulium Dust can be found in Loot Chests within the Lava Dimension structures (Mystical Agriculture)
+- Soulium Seed Base can be found in Loot Chests in certain structures within the Lava Dimension (Mystical Agriculture)
+- Fixed certain crafting recipes for some mods such as Farmer's Delight, Sophisticated Backpacks and more
+- Fixed Nether Eye wasn't removed properly from Loot Chests (End Remastered)
+- All AE2 Meteorites spawn in water in Everbright to save world gen (Applied Energistics 2)
+- Fixed key M wasn't opening Xaero's World Map
+- Updated Mystical Agriculture Questline
+- Updated Etheria Questline
+- Updated Artifacts & Relics Questline
+
+
+Mods:
+
+- Updated IceAndFire Community Edition, Legendary Monsters, Sophisticated Core, Sophisticated Backpacks, Waystones
+- Added Better World Loading ([Neo]Forge)
+- Added StackablePotions [Forge]
+
+
+New Quests:
+
+- Cataclysm
+- Ice and Fire
+- Undergarden
+
+
+Resource Packs:
+
+- Added Simply Swords  Whimscape add-on
+- Added Vanilla Experience+
+- Added Better Lanterns
+- Removed Simply Swords Reforged
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
