@@ -25,6 +25,8 @@ Mods:
 
 - Updated IceAndFire Community Edition, Legendary Monsters, Sophisticated Core, Sophisticated Backpacks, Waystones
 - Added Better World Loading ([Neo]Forge)
+- Added Dragon Mounts: Legacy
+- Added Dragon Mounts Patches
 - Added StackablePotions [Forge]
 
 
