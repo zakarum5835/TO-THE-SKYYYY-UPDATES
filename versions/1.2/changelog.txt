@@ -1,0 +1,55 @@
+# Mystical Agriculture Update! - v1.2
+This update is specially made for the popular mod Mystical Agriculture and this update adds various fixes, and then new questlines!
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Inferium Essence ore will forever spawn in Undergarden dimension
+- Inferium Essence can be found in Loot Chests in Undergarden dimension
+- Introduced custom UI for every Cataclysm's Boss (GTBC's Cataclysmic Boss UI)
+- Updated Against The Gods Questline
+- Introduced new tabs above the Inventory
+- Introduced Sky Villages around the Overworld
+- Enhanced Lootr Chests with a custom textures
+- Enhanced most Boss Bars for certain bosses
+- Added compatibility between Sky Villages with Farmer's Delight and Supplementaries via Paxi
+- Disabled Voice Simple Chat message everytime you join any world
+- Disabled Variant Chests from Quark mod
+- Modified Window Title via FancyMenu
+
+
+Mods:
+
+- Added Sky Villages [Forge]
+- Added GTBC's Cataclysmic Boss UI
+- Added Legendary Tabs
+- Added Handcrafted
+- Added [EMF] Entity Model Features [Fabric & Forge]
+- Added [ETF] Entity Texture Features - [Fabric & Forge]
+- Added Enhanced Boss Bars (Fabric/Forge/NeoForge)
+- Added Async Logger
+- Added FastPaintings
+- Added Trade Cycling
+- Added Nature's Compass
+- Added Featurify - WorldGen Control
+- Removed Fast Item Frames, Sodium/Embeddium Options Mod Compat
+
+
+New Quests:
+
+- The Aether
+- Blue Skies
+- Lava Dimension
+
+
+Resource Packs:
+
+- Added Custom Better Fantasy Lootr Chests
+- Added Fresh Animations
+- Added Cubic Sun & Moon
+- Removed Enhanced Boss Bars
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
